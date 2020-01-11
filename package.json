@@ -1,0 +1,29 @@
+{
+  "name": "any-burger",
+  "version": "1.0.0",
+  "description": "A burger app to help create fun burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrant-design/Any-Burger.git"
+  },
+  "keywords": [
+    "[\"burger\"",
+    "\"custom\"]"
+  ],
+  "author": "Darwin Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgrant-design/Any-Burger/issues"
+  },
+  "homepage": "https://github.com/dgrant-design/Any-Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
